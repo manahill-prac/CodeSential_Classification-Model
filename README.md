@@ -30,6 +30,6 @@ This repository contains a machine learning project that builds and compares cla
 
 ## How to Run
 1. Clone the repository.
-2. Open `Breast_Cancer_Classification.ipynb` in Jupyter Notebook or Google Colab.
+2. Open notebook in Jupyter Notebook or Google Colab.
 3. Run all cells sequentially to reproduce results.
 
